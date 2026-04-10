@@ -3,9 +3,12 @@
 
 Data collected from 2020(?)-2023(?)
 
-Experiment measuring a) photosynthetic gas exchange using LiCor 6400XT, b) hyperspectral leaf reflectance, c) volatile organice chemical emissions from wheat stem sawfly (*Cephus cinctus*) infested wheat cultivars. 
+Experiment measuring the following from wheat stem sawfly (*Cephus cinctus*) infested wheat cultivars.
+- photosynthetic gas exchange using LiCor 6400XT
+- hyperspectral leaf reflectance
+- volatile organice chemical emissions  
 
-Members:  
+<u>Members:</u>  
 [Jackson Strand](https://orcid.org/0009-0005-8827-021X)  
 [Laissa Cavallini](https://orcid.org/0000-0002-0922-5172)  
 [Lochlin Ermatinger](https://orcid.org/0009-0008-8251-6305)  
